@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-canvas-petal">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="canvas-petal" clip-path="url(#clip-canvas-petal)">
+    <path id="canvas-petal-2" data-name="canvas-petal" d="M135.819-139.042l-1.732,1.378A60.972,60.972,0,0,0,110.88-88.631a60.976,60.976,0,0,0,24.763,48.267l1.775,1.322,1.733-1.378a60.975,60.975,0,0,0,23.206-49.034,60.973,60.973,0,0,0-24.763-48.266l-1.776-1.321Z" transform="translate(-39.042 -86.618) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

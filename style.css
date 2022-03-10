@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	/* background-color: black; */
+	/* color: white; */
+	/* font-family: monospace; */
+	padding: 2rem;
+}
+
+.item + .item {
+	margin-top: 1rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+span {
+	font-size: 1rem;
+}
+
+a {
+	color: inherit;
+}
+
+canvas {
+	display: block;
+	margin: 1rem auto;
+	width: 100%;
+	aspect-ratio: 16/9;
+	background-color: cadetblue;
+}
+
+canvas#canvas-colleagues {
+	background-color: rgb(204, 133, 194);
+	min-width: 500px;
+	aspect-ratio: 2/1;
+}
+
+canvas#canvas-planes {
+	background-color: rgb(243, 243, 243);
+}
