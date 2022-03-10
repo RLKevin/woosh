@@ -42,3 +42,7 @@ canvas#canvas-colleagues {
 canvas#canvas-planes {
 	background-color: rgb(243, 243, 243);
 }
+
+canvas#canvas-snow {
+	background-color: #212121;
+}
